@@ -48,6 +48,9 @@ eve
 
 ---
 
+
+---
+
 ## 🚀 Run Locally
 
 ```bash
@@ -58,23 +61,5 @@ python -m venv .venv
 pip install -r requirements.txt
 
 streamlit run app/main.py
-
-🔐 Notes on Security
-.env is excluded using .gitignore
-
-Hugging Face models are used (no OpenAI billing required)
-
-Push protection validated and secrets scrubbed ✅
-
-👩‍💻 Author
-Sanduni Disanayaka
-📧 sandunidisanayaka96@gmail.com
-🔗 LinkedIn
-💻 GitHub
-
-🔗 Links
-🧠 Source Code
-
-🚀 Live App
 
 
