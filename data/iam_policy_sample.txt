@@ -1,0 +1,6 @@
+[INFO] 2024-12-01T12:00:00Z - User: alice - Action: ListBuckets - IP: 192.168.1.10 - Region: us-west-2 - Status: Success
+[INFO] 2024-12-01T12:10:00Z - User: bob - Action: CreateUser - IP: 192.168.1.23 - Region: us-east-1 - Status: Success
+[WARNING] 2024-12-01T12:20:00Z - User: eve - Action: DeleteUser - IP: 10.0.0.5 - Region: ap-south-1 - Status: Failed
+[INFO] 2024-12-01T12:30:00Z - User: alice - Action: GetObject - IP: 192.168.1.10 - Region: us-west-2 - Status: Success
+[INFO] 2024-12-01T12:35:00Z - User: bob - Action: PutObject - IP: 192.168.1.23 - Region: us-east-1 - Status: Success
+[ERROR] 2024-12-01T12:50:00Z - User: eve - Action: DeleteBucket - IP: 10.0.0.5 - Region: ap-south-1 - Status: Unauthorized
