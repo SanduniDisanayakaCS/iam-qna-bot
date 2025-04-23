@@ -62,4 +62,21 @@ pip install -r requirements.txt
 
 streamlit run app/main.py
 
+---
+
+## 👩‍💻 Author
+
+**Sanduni Disanayaka**  
+📧 [sandunidisanayaka96@gmail.com](mailto:sandunidisanayaka96@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanduni-disanayaka-3073b1240/)  
+💻 [GitHub](https://github.com/SanduniDisanayakaCS)
+
+---
+
+## 🔗 Project Links
+
+🧠 [Source Code (GitHub)](https://github.com/SanduniDisanayakaCS/iam-qna-bot)  
+🚀 [Live App (Streamlit)](https://iam-qna-bot-version2.streamlit.app)
+
+
 
