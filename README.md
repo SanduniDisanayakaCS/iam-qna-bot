@@ -72,10 +72,14 @@ Hugging Face models are used (no OpenAI billing required)
 
 Push protection validated and secrets scrubbed ✅
 
-👩‍💻 Author
-Sanduni Disanayaka
-📧 sandunidisanayaka96@gmail.com
-🔗 LinkedIn
-💻 GitHub
+## 🔗 Project Links
+
+🧠 [Source Code (GitHub)](https://github.com/SanduniDisanayakaCS/iam-qna-bot)  
+🚀 [Live App (Streamlit)](https://iam-qna-bot-version2.streamlit.app)
+
+📧 Contact
+Author: Sanduni Disanayaka
+📧 Email: sandunidisanayaka96@gmail.com
+🌍 GitHub: @SanduniDisanayakaCS
 
 
